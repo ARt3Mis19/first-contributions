@@ -23,6 +23,7 @@
 - [AdityaRaj212] (https://github.com/AdityaRaj212)
 - [AvAdiii] (https://github.com/AvAdiii)
 - [FloraPetit] (https://github.com/PetitFlora)
+- [ARt3Mis19]
 - [anthocote19](https://github.com/anthocote19)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
 - [Iris Christa](https://github.com/I-christa)
